@@ -1,3 +1,8 @@
+// Future Features:
+// - case insensitive room name
+// - unique usernames
+// - list of active chat rooms
+
 const path = require('path');
 const http = require('http');
 const express = require('express');
